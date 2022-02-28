@@ -1,9 +1,14 @@
 
+<<<<<<< HEAD
 
 pasdasdasd:
 D
 D
 9
+=======
+RR
+SD
+>>>>>>> lincoln
 A
 
 D:
